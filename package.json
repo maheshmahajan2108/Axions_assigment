@@ -1,0 +1,28 @@
+{
+  "name": "enlarge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maheshmahajan2108/node_Apis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maheshmahajan2108/node_Apis/issues"
+  },
+  "homepage": "https://github.com/maheshmahajan2108/node_Apis#readme",
+  "dependencies": {
+    "@supercharge/strings": "^1.24.0",
+    "cookie-parser": "^1.4.5",
+    "crypto": "^1.0.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "knex": "^0.95.12",
+    "mysql": "^2.18.1"
+  }
+}

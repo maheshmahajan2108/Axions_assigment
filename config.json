@@ -1,0 +1,7 @@
+{
+    "server": {
+        "protocol": "http",
+        "fqdn": "localhost",
+        "port": "3012"
+    }
+}
